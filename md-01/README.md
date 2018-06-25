@@ -1,4 +1,4 @@
-# mini-app
+# wechat-app-notes
 
 - 微信小程序介绍与准备
 - 上手第一个小程序
