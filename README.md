@@ -1,6 +1,5 @@
 # wechat-app
 
-
 - 小程序官方文档：[查看](https://developers.weixin.qq.com/miniprogram/dev/)
 - 小游戏官方文档：[查看](https://developers.weixin.qq.com/minigame/dev/index.html)
 - 微信小程序认证指引： [查看](https://developers.weixin.qq.com/miniprogram/product/renzheng.html)
@@ -21,6 +20,12 @@
 - mpvue：[查看](http://mpvue.com/mpvue/)
 - 百度小程序：[查看](http://smartapp.baidu.com/static/miniappdoc/html/swan/index.html)
 - 支付宝小程序：[查看](https://docs.alipay.com/mini/introduce)
+
+## 经验
+
+- 微信小程序中用户登录和登录态维护
+- 微信小程序下拉刷新/上拉加载更多
+- 微信小程序页面间通信
 
 
 
