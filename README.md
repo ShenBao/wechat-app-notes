@@ -13,7 +13,6 @@
 - weui-wxss： [查看](https://github.com/Tencent/weui-wxss)
 
 
-
 ## 第三方
 
 - wepy：[查看](https://tencent.github.io/wepy/)
@@ -26,6 +25,7 @@
 - 微信小程序中用户登录和登录态维护
 - 微信小程序下拉刷新/上拉加载更多
 - 微信小程序页面间通信
+- button组件的开放能力
 
 
 
