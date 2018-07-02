@@ -15,6 +15,13 @@
 - 腾讯云代码托管：[查看](https://developers.weixin.qq.com/miniprogram/dev/qcloud/tgit.html)
 
 
+## 微信第三方平台
+
+- [开发第三方平台-小程序](https://developers.weixin.qq.com/miniprogram/dev/devtools/ext.html)
+- [第三方平台概述](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419318292&token=&lang=zh_CN)
+- [代小程序实现业务](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1489144594_DhNoV&token=&lang=zh_CN)
+
+
 ## UI
 
 - weui-wxss： [查看](https://github.com/Tencent/weui-wxss)
@@ -32,7 +39,6 @@
 扩展：
 - 百度小程序：[查看](http://smartapp.baidu.com/static/miniappdoc/html/swan/index.html)
 - 支付宝小程序：[查看](https://docs.alipay.com/mini/introduce)
-
 
 
 ## 经验
