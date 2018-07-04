@@ -36,9 +36,16 @@
 - awesome-wepy: [查看](https://github.com/aben1188/awesome-wepy)
 - 京东taro: [查看](https://github.com/NervJS/taro)
 
+
 扩展：
 - 百度小程序：[查看](http://smartapp.baidu.com/static/miniappdoc/html/swan/index.html)
 - 支付宝小程序：[查看](https://docs.alipay.com/mini/introduce)
+
+
+## 其他
+
+- 阿拉丁统计：[查看](https://www.aldwx.com/?logout=0)
+- fundebug：[查看](https://www.fundebug.com/)
 
 
 ## 经验
