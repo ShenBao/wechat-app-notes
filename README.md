@@ -2,6 +2,7 @@
 
 - 小程序设计指南：[查看](https://developers.weixin.qq.com/miniprogram/design/index.html)
 - 小程序官方文档：[查看](https://developers.weixin.qq.com/miniprogram/dev/)
+- 小程序开发指南:[查看](https://developers.weixin.qq.com/ebook?action=get_post_info&token=935589521&volumn=1&lang=zh_CN&book=miniprogram&docid=0008aeea9a8978ab0086a685851c0a)
 - 小游戏官方文档：[查看](https://developers.weixin.qq.com/minigame/dev/index.html)
 - 开发者工具: [查看](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html)
 
@@ -63,7 +64,7 @@
 ## 其他
 
 - 微信小程序wxss小工具，将scss转化为wxss： [查看](https://github.com/ShenBao/wechat-weapp-wxss-tool)
-
+- 小程序内常用工具封装
 
 
 
