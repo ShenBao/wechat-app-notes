@@ -50,6 +50,7 @@
 - 微信小程序页面间通信
 - button组件的开放能力
 - api接口的维护
+- http的封装
 - 小程序中使用ES6：`module,class,promise,=>`
 
 
