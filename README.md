@@ -14,6 +14,9 @@
 - 公众号推送小程序打开指定页面：[查看](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1433751277)
 - 服务直达：[查看](https://mp.weixin.qq.com/servicezone/apidocs/html/index.html)
 - 腾讯云代码托管：[查看](https://developers.weixin.qq.com/miniprogram/dev/qcloud/tgit.html)
+- Wafer - 企业级微信小程序全栈方案[查看](https://github.com/tencentyun/wafer-node-server-demo)
+- 小程序配置指引、升级方案[查看](https://github.com/tencentyun/weapp-doc)
+
 
 
 ## 微信第三方平台
