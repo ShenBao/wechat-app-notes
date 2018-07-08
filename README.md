@@ -65,6 +65,11 @@
 - 小程序中使用ES6：`module,class,promise,=>`
 
 
+## 审核经验
+
+- [小程序发布开发经验](./notes/01.md)
+
+
 ## 其他
 
 - 微信小程序wxss小工具，将scss转化为wxss： [查看](https://github.com/ShenBao/wechat-weapp-wxss-tool)
