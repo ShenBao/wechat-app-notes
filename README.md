@@ -39,7 +39,7 @@
 - mpvue：[查看](http://mpvue.com/mpvue/)
 - awesome-wepy: [查看](https://github.com/aben1188/awesome-wepy)
 - 京东taro: [查看](https://github.com/NervJS/taro)
-
+- [ECharts 的微信小程序版本](https://github.com/ecomfe/echarts-for-weixin)
 
 扩展：
 - 百度小程序：[查看](http://smartapp.baidu.com/static/miniappdoc/html/swan/index.html)
