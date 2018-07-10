@@ -31,7 +31,7 @@
 - weui-wxss： [查看](https://github.com/Tencent/weui-wxss)
 - ZanUI：[查看](https://www.youzanyun.com/zanui/weapp#/zanui/base/icon)
 - iView Weapp: [查看](https://weapp.iviewui.com/docs/guide/start)
-
+- MinUI: [查看](https://github.com/meili/minui)
 
 ## 第三方
 
