@@ -5,6 +5,7 @@
 - 小程序开发指南:[查看](https://developers.weixin.qq.com/ebook?action=get_post_info&token=935589521&volumn=1&lang=zh_CN&book=miniprogram&docid=0008aeea9a8978ab0086a685851c0a)
 - 小游戏官方文档：[查看](https://developers.weixin.qq.com/minigame/dev/index.html)
 - 开发者工具: [查看](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html)
+- 命令行启动工具: [查看](https://developers.weixin.qq.com/miniprogram/dev/devtools/cli.html)
 
 - 微信小程序认证指引： [查看](https://developers.weixin.qq.com/miniprogram/product/renzheng.html)
 - 小程序支付：[查看](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=7_3&index=1)
