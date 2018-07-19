@@ -64,6 +64,7 @@
 - api接口的维护
 - http的封装
 - 小程序中使用ES6：`module,class,promise,=>`
+- 小程序内生成图片
 
 
 ## 审核经验
@@ -75,7 +76,6 @@
 
 - 微信小程序wxss小工具，将scss转化为wxss： [查看](https://github.com/ShenBao/wechat-weapp-wxss-tool)
 - 小程序内常用工具封装
-
 
 
 
