@@ -5,6 +5,7 @@
 - 小程序开发指南:[查看](https://developers.weixin.qq.com/ebook?action=get_post_info&token=935589521&volumn=1&lang=zh_CN&book=miniprogram&docid=0008aeea9a8978ab0086a685851c0a)
 - 小游戏官方文档：[查看](https://developers.weixin.qq.com/minigame/dev/index.html)
 - 开发者工具: [查看](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html)
+- 命令行启动工具: [查看](https://developers.weixin.qq.com/miniprogram/dev/devtools/cli.html)
 
 - 微信小程序认证指引： [查看](https://developers.weixin.qq.com/miniprogram/product/renzheng.html)
 - 小程序支付：[查看](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=7_3&index=1)
@@ -31,7 +32,7 @@
 - weui-wxss： [查看](https://github.com/Tencent/weui-wxss)
 - ZanUI：[查看](https://www.youzanyun.com/zanui/weapp#/zanui/base/icon)
 - iView Weapp: [查看](https://weapp.iviewui.com/docs/guide/start)
-
+- MinUI: [查看](https://github.com/meili/minui)
 
 ## 第三方
 
@@ -39,7 +40,7 @@
 - mpvue：[查看](http://mpvue.com/mpvue/)
 - awesome-wepy: [查看](https://github.com/aben1188/awesome-wepy)
 - 京东taro: [查看](https://github.com/NervJS/taro)
-
+- [ECharts 的微信小程序版本](https://github.com/ecomfe/echarts-for-weixin)
 
 扩展：
 - 百度小程序：[查看](http://smartapp.baidu.com/static/miniappdoc/html/swan/index.html)
@@ -63,6 +64,7 @@
 - api接口的维护
 - http的封装
 - 小程序中使用ES6：`module,class,promise,=>`
+- 小程序内生成图片
 
 
 ## 审核经验
@@ -74,7 +76,6 @@
 
 - 微信小程序wxss小工具，将scss转化为wxss： [查看](https://github.com/ShenBao/wechat-weapp-wxss-tool)
 - 小程序内常用工具封装
-
 
 
 
