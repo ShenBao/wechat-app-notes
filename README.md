@@ -16,7 +16,7 @@
 - 腾讯云代码托管：[查看](https://developers.weixin.qq.com/miniprogram/dev/qcloud/tgit.html)
 - Wafer - 企业级微信小程序全栈方案[查看](https://github.com/tencentyun/wafer-node-server-demo)
 - 小程序配置指引、升级方案[查看](https://github.com/tencentyun/weapp-doc)
-
+- npm 支持 [查看](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)
 
 
 ## 微信第三方平台
