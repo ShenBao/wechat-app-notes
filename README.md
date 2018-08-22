@@ -1,4 +1,4 @@
-# wechat-app
+# wechat-app-notes
 
 - 小程序设计指南：[查看](https://developers.weixin.qq.com/miniprogram/design/index.html)
 - 小程序官方文档：[查看](https://developers.weixin.qq.com/miniprogram/dev/)
@@ -39,6 +39,7 @@
 - iView Weapp: [查看](https://weapp.iviewui.com/docs/guide/start)
 - MinUI: [查看](https://github.com/meili/minui)
 
+
 ## 第三方
 
 - wepy：[查看](https://tencent.github.io/wepy/)
@@ -60,13 +61,12 @@
 
 ## 经验
 
-(准备ing)
-
 - 微信小程序中用户登录和登录态维护
 - 微信小程序下拉刷新/上拉加载更多
 - 微信小程序页面间通信
 - button组件的开放能力
 - api接口的维护
+- 上传系统信息
 - http的封装
 - 小程序中使用ES6：`module,class,promise,=>`
 - 小程序内生成图片
@@ -75,10 +75,12 @@
 ## 审核经验
 
 - [小程序发布开发经验](./notes/01.md)
+- 待续...
 
 
 ## 其他
 
+- wechat-app-tool： [查看](https://github.com/ShenBao/wechat-app-tool)
 - 微信小程序wxss小工具，将scss转化为wxss： [查看](https://github.com/ShenBao/wechat-weapp-wxss-tool)
 - 小程序内常用工具封装
 
