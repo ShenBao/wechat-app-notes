@@ -19,6 +19,11 @@
 - 小程序配置指引、升级方案[查看](https://github.com/tencentyun/weapp-doc)
 - npm 支持 [查看](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)
 
+- 小程序-云开发 [查看](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
+
+
+- 小程序换绑管理员流程 [查看](http://kf.qq.com/faq/170602BRfiM3170602iEJNFJ.html)
+
 
 ## 微信第三方平台
 
@@ -78,4 +83,10 @@
 - 小程序内常用工具封装
 
 
+
+## 杂记
+
+- 一个身份证只能作为5个管理员
+- 一个人开发者可以绑定50个小程序(扎心，目前好像已经绑定了快40个了)
+- 解除绑定: 关注公众平台安全助手（mphelper），点击菜单-->绑定查询->微信号绑定帐号，可以看到绑了哪些小程序，然后也可以直接进行解绑。
 
