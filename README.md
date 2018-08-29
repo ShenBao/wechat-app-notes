@@ -21,7 +21,6 @@
 
 - 小程序-云开发 [查看](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
-
 - 小程序换绑管理员流程 [查看](http://kf.qq.com/faq/170602BRfiM3170602iEJNFJ.html)
 
 
@@ -38,6 +37,29 @@
 - ZanUI：[查看](https://www.youzanyun.com/zanui/weapp#/zanui/base/icon)
 - iView Weapp: [查看](https://weapp.iviewui.com/docs/guide/start)
 - MinUI: [查看](https://github.com/meili/minui)
+- touchwx: [查看](https://github.com/uileader/touchuiwx)
+
+- [wx_calendar](https://github.com/treadpit/wx_calendar)
+- [calendar](https://github.com/czcaiwj/calendar)
+
+
+LBS
+- [高德地图 微信小程序SDK](https://lbs.amap.com/api/wx/summary/)
+- [百度地图微信小程序SDK](http://lbsyun.baidu.com/index.php?title=wxjsapi)
+- [腾讯位置服务 微信小程序SDK](http://lbs.qq.com/qqmap_wx_jssdk/index.html)
+
+Canvas
+- [ECharts 的微信小程序版本](https://github.com/ecomfe/echarts-for-weixin)
+- [wxDraw 微信小程序2d动画库](https://github.com/bobiscool/wxDraw)
+- [WeZRender 微信小程序Canvas开发](https://github.com/guyoung/WeZRender)
+- [wx-charts 微信小程序图表charts组件](https://github.com/xiaolin3303/wx-charts)
+- [wxCharts 微信小程序中的股票分时图、K线图](https://github.com/Shaman05/wxCharts)
+
+- [wxbarcode 微信小程序条码、二维码生成模块](https://github.com/alsey/wxbarcode)
+- [微信小程序 中，快速生成二维码](https://github.com/yingye/weapp-qrcode)
+
+- [F2 的微信小程序版本](https://github.com/antvis/wx-f2)
+
 
 
 ## 第三方
@@ -46,7 +68,7 @@
 - mpvue：[查看](http://mpvue.com/mpvue/)
 - awesome-wepy: [查看](https://github.com/aben1188/awesome-wepy)
 - 京东taro: [查看](https://github.com/NervJS/taro)
-- [ECharts 的微信小程序版本](https://github.com/ecomfe/echarts-for-weixin)
+
 
 扩展：
 - 百度小程序：[查看](http://smartapp.baidu.com/static/miniappdoc/html/swan/index.html)
