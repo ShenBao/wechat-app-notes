@@ -24,6 +24,14 @@
 - 小程序换绑管理员流程 [查看](http://kf.qq.com/faq/170602BRfiM3170602iEJNFJ.html)
 
 
+## 相关
+
+- 小程序开发助手
+- 小程序数据助手
+- 微信开发平台 公众号
+- 公众平台安全助手（mphelper）
+
+
 ## 微信第三方平台
 
 - [开发第三方平台-小程序](https://developers.weixin.qq.com/miniprogram/dev/devtools/ext.html)
@@ -48,6 +56,7 @@ LBS
 - [百度地图微信小程序SDK](http://lbsyun.baidu.com/index.php?title=wxjsapi)
 - [腾讯位置服务 微信小程序SDK](http://lbs.qq.com/qqmap_wx_jssdk/index.html)
 
+
 Canvas
 - [ECharts 的微信小程序版本](https://github.com/ecomfe/echarts-for-weixin)
 - [wxDraw 微信小程序2d动画库](https://github.com/bobiscool/wxDraw)
@@ -56,7 +65,7 @@ Canvas
 - [wxCharts 微信小程序中的股票分时图、K线图](https://github.com/Shaman05/wxCharts)
 
 - [wxbarcode 微信小程序条码、二维码生成模块](https://github.com/alsey/wxbarcode)
-- [微信小程序 中，快速生成二维码](https://github.com/yingye/weapp-qrcode)
+- [微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode)
 
 - [F2 的微信小程序版本](https://github.com/antvis/wx-f2)
 
