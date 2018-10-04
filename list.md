@@ -1,0 +1,37 @@
+# wechat-app
+
+- 小程序-登录
+    - unionid和openid
+    - 关键Api
+    - 登录流程设计
+        - 利用现有登录体系
+        - 利用OpenId 创建用户体系
+        - 利用Unionid 创建用户体系
+- 小程序-图片导出
+    - 基本原理
+- 小程序-数据统计
+    - 设计一个埋点
+    - 分析接口
+    - 微信自定义数据分析
+- 小程序架构
+    - App Service - Life Cylce
+- View - WXML
+- View - WXSS
+    - 支持大部分CSS特性
+    - 尺寸单位 rpx
+    - 样式导入
+    - 内联样式
+    - 全局样式与局部样式
+    - iconfont
+- View - Component
+- View - Native Component
+- 分包加载
+- 渲染性能优化
+- npm支持
+- 官方自定义组件
+- 原生组件同层渲染
+- 云开发
+    - 小程序端
+    - 服务端
+- 接入fundebug
+- 接入阿拉丁统计
