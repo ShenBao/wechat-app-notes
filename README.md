@@ -102,6 +102,21 @@ Canvas
 - 小程序中使用ES6：`module,class,promise,=>`
 - 小程序内生成图片
 
+**
+- 登录流程
+- 数据统计
+- 小程序的工程化
+- App Service
+- WXML、WXSS
+- rpx、iconfont
+- Component、Native Component
+- 运行机制
+- 框架原理
+- 宿主环境、逻辑层、渲染层、双线程模型
+- 小程序与客户端通信原理
+- 分包加载
+- 自定义编译模式、二维码编译模式、真机调试
+
 
 ## 审核经验
 
@@ -114,7 +129,6 @@ Canvas
 - wechat-app-tool： [查看](https://github.com/ShenBao/wechat-app-tool)
 - 微信小程序wxss小工具，将scss转化为wxss： [查看](https://github.com/ShenBao/wechat-weapp-wxss-tool)
 - 小程序内常用工具封装
-
 
 
 ## 杂记
