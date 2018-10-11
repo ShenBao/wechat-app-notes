@@ -1,5 +1,7 @@
 # wechat-app-notes
 
+- `置顶：`[《小程序大时代》](http://229032.uniflows.com/stage/180929/229032.html?54190601=&from=groupmessage&isappinstalled=0)
+
 - 小程序设计指南：[查看](https://developers.weixin.qq.com/miniprogram/design/index.html)
 - 小程序官方文档：[查看](https://developers.weixin.qq.com/miniprogram/dev/)
 - 小程序开发指南:[查看](https://developers.weixin.qq.com/ebook?action=get_post_info&token=935589521&volumn=1&lang=zh_CN&book=miniprogram&docid=0008aeea9a8978ab0086a685851c0a)
