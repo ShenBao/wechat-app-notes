@@ -13,8 +13,10 @@
 - 小程序支付：[查看](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=7_3&index=1)
 - 获取二维码：[查看](https://developers.weixin.qq.com/miniprogram/dev/api/qrcode.html)
 - 扫普通链接二维码打开小程序： [查看](https://developers.weixin.qq.com/miniprogram/introduction/qrcode.html)
+
 - 小程序社交立减金： [查看](https://mp.weixin.qq.com/s/bIjVnYCViiUoladrM-0iIg)
 - 公众号推送小程序打开指定页面：[查看](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1433751277)
+
 - 服务直达：[查看](https://mp.weixin.qq.com/servicezone/apidocs/html/index.html)
 - 腾讯云代码托管：[查看](https://developers.weixin.qq.com/miniprogram/dev/qcloud/tgit.html)
 - Wafer - 企业级微信小程序全栈方案[查看](https://github.com/tencentyun/wafer-node-server-demo)
@@ -24,6 +26,9 @@
 - 小程序-云开发 [查看](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
 - 小程序换绑管理员流程 [查看](http://kf.qq.com/faq/170602BRfiM3170602iEJNFJ.html)
+
+- [微信开发社区](https://developers.weixin.qq.com/)
+
 
 
 ## 相关
