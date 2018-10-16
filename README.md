@@ -1,6 +1,6 @@
 # wechat-app-notes
 
-- `置顶：`[《小程序大时代》](http://229032.uniflows.com/stage/180929/229032.html?54190601=&from=groupmessage&isappinstalled=0)
+- [《小程序大时代》](http://229032.uniflows.com/stage/180929/229032.html?54190601=&from=groupmessage&isappinstalled=0)
 
 - 小程序设计指南：[查看](https://developers.weixin.qq.com/miniprogram/design/index.html)
 - 小程序官方文档：[查看](https://developers.weixin.qq.com/miniprogram/dev/)
@@ -27,8 +27,9 @@
 
 - 小程序换绑管理员流程 [查看](http://kf.qq.com/faq/170602BRfiM3170602iEJNFJ.html)
 
-- [微信开发社区](https://developers.weixin.qq.com/)
+- [微信支付营销工具介绍](http://kf.qq.com/faq/161220J7bIZr161220QbQvua.html)
 
+- [微信开发社区](https://developers.weixin.qq.com/)
 
 
 ## 相关
