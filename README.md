@@ -127,6 +127,9 @@ Canvas
 - 自定义编译模式、二维码编译模式、真机调试
 
 
+- [Java实现小程序用户信息解密](http://www.yiyongtong.com/archives/view-4340-1.html)
+
+
 ## 审核经验
 
 - [小程序发布开发经验](./notes/01.md)
