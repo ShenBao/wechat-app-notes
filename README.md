@@ -78,6 +78,9 @@ Canvas
 
 - [F2 的微信小程序版本](https://github.com/antvis/wx-f2)
 
+- [vscode插件--微信小程序格式化以及高亮组件](https://github.com/cnyballk/wxml-vscode)
+- [小程序助手](https://marketplace.visualstudio.com/items?itemName=debian001.app-migrator)
+- [微信小程序标签、属性的智能补全（同时支持原生小程序、mpvue 和 wepy 框架，并提供 snippets）](https://github.com/wx-minapp/minapp-vscode)
 
 
 ## 第三方
