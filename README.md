@@ -89,6 +89,7 @@ Canvas
 - mpvue：[查看](http://mpvue.com/mpvue/)
 - awesome-wepy: [查看](https://github.com/aben1188/awesome-wepy)
 - 京东taro: [查看](https://github.com/NervJS/taro)
+- megalo: [查看](https://github.com/kaola-fed/megalo)
 
 
 扩展：
